@@ -3,7 +3,7 @@ require 'rake'
 
 RSpec::Core::RakeTask.new(:spec) do |task|
   task.pattern = Dir.glob('spec/**/*_spec.rb')
-  task.rspec_opts - '--format documentation'
+  task.rspec_opts = '--format documentation'
 end
 
 task :default => [:spec]

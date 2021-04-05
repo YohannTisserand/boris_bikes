@@ -1,3 +1,3 @@
 # Boris Bikes Challenge
 
-<a href='https://coveralls.io/github/YohannTisserand/airport_challenge?branch=master'><img src='https://coveralls.io/repos/github/YohannTisserand/airport_challenge/badge.svg?branch=master' alt='Coverage Status' /></a>
+<a href='https://coveralls.io/github/YohannTisserand/boris_bikes?branch=main'><img src='https://coveralls.io/repos/github/YohannTisserand/boris_bikes/badge.svg?branch=main' alt='Coverage Status' /></a>

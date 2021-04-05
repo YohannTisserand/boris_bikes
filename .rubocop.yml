@@ -1,0 +1,28 @@
+# Offense count: 2
+# Configuration parameters: AllowComments.
+Lint/EmptyFile:
+  Exclude:
+    - 'lib/docking_station.rb'
+    - 'spec/docking_station_spec.rb'
+
+# Offense count: 1
+# Cop supports --auto-correct.
+Style/BlockComments:
+  Exclude:
+    - 'spec/spec_helper.rb'
+
+# Offense count: 2
+# Cop supports --auto-correct.
+# Configuration parameters: EnforcedStyle.
+# SupportedStyles: always, always_true, never
+Style/FrozenStringLiteralComment:
+  Exclude:
+    - 'rakefile.rb'
+    - 'spec/spec_helper.rb'
+
+# Offense count: 1
+# Cop supports --auto-correct.
+# Configuration parameters: UseHashRocketsWithSymbolValues, PreferHashRocketsForNonAlnumEndingSymbols.
+# SupportedStyles: ruby19, hash_rockets, no_mixed_keys, ruby19_no_mixed_keys
+# Style/HashSyntax:
+#   EnforcedStyle: hash_rockets

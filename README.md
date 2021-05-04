@@ -4,8 +4,6 @@
 <a href='https://coveralls.io/github/YohannTisserand/boris_bikes?branch=main'><img src='https://coveralls.io/repos/github/YohannTisserand/boris_bikes/badge.svg?branch=main' alt='Coverage Status' /></a> [![Build Status](https://travis-ci.org/YohannTisserand/boris_bikes.svg?branch=main)](https://travis-ci.org/YohannTisserand/boris_bikes)
 
 ## Get started
-- clone the repository 
-```
-git clone https://github.com/YohannTisserand/boris_bikes.git
-```
-- Play around
+- clone the repository  `git clone https://github.com/YohannTisserand/boris_bikes.git`
+
+- Play around with the command line to explore the functionnality

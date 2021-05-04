@@ -9,7 +9,7 @@ I had to write a program to develop an app who handle the docking bikes stations
 ## Get started
 - clone the repository  `git clone https://github.com/YohannTisserand/boris_bikes.git`
 - run `bundle` from the repository
-- Play around with the command line to explore the functionnality `irb -r ./lib/boris_bikes.rb`
+- Play around with the command line to explore the functionnality `irb -r ./lib/dockingstation.rb`
 
 ### Technologies used / Dependencies
 

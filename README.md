@@ -4,4 +4,4 @@
 <a href='https://coveralls.io/github/YohannTisserand/boris_bikes?branch=main'><img src='https://coveralls.io/repos/github/YohannTisserand/boris_bikes/badge.svg?branch=main' alt='Coverage Status' /></a>
 
 
-<a href="https://travis-ci.org/YohannTisserand/boris_bikes.svg?branch=main" /></a>
+https://travis-ci.org/YohannTisserand/boris_bikes.svg?branch=main

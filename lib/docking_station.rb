@@ -31,6 +31,6 @@ class DockingStation
   end
 
   def find_working_bike
-    bikes.each_with_index { |bike, idx| return bikes.slice!(idx) if bike.working? }
+    bikes.each_with_index { |bike, idx| return bikes.slice(idx) if bike.working? }
   end
 end

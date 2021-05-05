@@ -11,7 +11,7 @@ I had to write a program to develop an app who handle the docking bikes stations
 - run `bundle` from the repository
 - Play around with the command line to explore the functionnality `irb -r ./lib/dockingstation.rb`
 
-### Technologies used / Dependencies
+## Technologies used / Dependencies
 
 - rspec
 - rake
